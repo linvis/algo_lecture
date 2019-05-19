@@ -29,3 +29,4 @@ Temporary Items
 *.o
 *.dSYM
 *.idea
+.ipynb_checkpoints
